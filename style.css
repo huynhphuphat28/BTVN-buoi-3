@@ -1,0 +1,15 @@
+.hero {
+    background-image: url("https://quancafedep.com.vn/uploads/2023/11/18/anh-cafe-chill_092501733.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.posts article:first-of-type {
+    background-color: #fce7f3;
+}
+.posts article h3 + p {
+    background-color: #fffbeb;
+}
+nav a.active {
+    font-size: 35px;
+}
